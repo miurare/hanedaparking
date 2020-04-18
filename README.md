@@ -17,7 +17,7 @@
     - Google chromeのversionを調べます。
     - バージョンにあったchrome driverをダウンロードします。
 
-- Pythonモジュール    
+- Pythonモジュール  (Anacondaでインストール）  
     - Beautifulsoup4
         - `conda install -c anaconda beautifulsoup4`
     - selenium
