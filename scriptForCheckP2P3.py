@@ -8,7 +8,7 @@ from selenium.webdriver.chrome.options import Options
 
 
 
-class CheckHNDParking():
+class CheckHNDParking:
 
     def __init__(self, date, days=1, multidate = False):
         self.date = date
